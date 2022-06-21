@@ -7,8 +7,8 @@ This repository has includes the following systems :
 
 ## CVE Scanner
 - Mapping the generated NMap scan file to the respective vulnerabilities in the CVE database. 
---This is required for constant monitoring of the currently deployed systems by checking the version of the Windows OS in the NMap Scan and the corresponding vulnerabilities in the CVE database.)
--- Reference : https://github.com/NorthernSec/CVE-Scan
+  - This is required for constant monitoring of the currently deployed systems by checking the version of the Windows OS in the NMap Scan and the corresponding vulnerabilities in the CVE database.)
+  - Reference : https://github.com/NorthernSec/CVE-Scan
 
 
 ## Encryption Algorithms for ADS-B 
